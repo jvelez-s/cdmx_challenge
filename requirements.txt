@@ -1,0 +1,7 @@
+altair
+numpy
+matplotlib
+pandas
+geopandas
+glob
+pyprojroot
