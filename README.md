@@ -1,5 +1,4 @@
-# CDMX Challenge
-==============================
+# CDMX Challenge. 
 
 A short description of the project.
 
