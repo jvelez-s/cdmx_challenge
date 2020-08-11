@@ -1,7 +1,11 @@
 altair
+cartoframes
+contextily
+descartes
 numpy
 matplotlib
 pandas
 geopandas
 glob
 pyprojroot
+shapely
