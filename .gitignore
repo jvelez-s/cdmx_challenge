@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore MAC .DS_Store
 *.DS_Store
+
+# Ignore data directrories.
+data/
