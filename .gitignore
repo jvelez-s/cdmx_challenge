@@ -132,4 +132,4 @@ dmypy.json
 *.DS_Store
 
 # Ignore data directrories.
-data/
+#data/
