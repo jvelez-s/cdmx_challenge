@@ -3,9 +3,11 @@ cartoframes
 contextily
 descartes
 numpy
+mapclassify
 matplotlib
 pandas
 geopandas
 glob
 pyprojroot
 shapely
+xlrd
